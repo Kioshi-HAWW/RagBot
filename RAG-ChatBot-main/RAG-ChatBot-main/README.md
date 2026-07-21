@@ -119,6 +119,6 @@ Add screenshots here after deployment.
 
 ## 👨‍💻 Author
 
-**Prathmesh Chedge**
+**Udit Narayan Rout**
 
-GitHub:https://github.com/Chedgeprathm
+GitHub:https://github.com/Kioshi-HAWW
